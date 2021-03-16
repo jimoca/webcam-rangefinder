@@ -1,0 +1,9 @@
+ 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+snapshot*/left/
+snapshot*/right/
+
+.DS_Store
